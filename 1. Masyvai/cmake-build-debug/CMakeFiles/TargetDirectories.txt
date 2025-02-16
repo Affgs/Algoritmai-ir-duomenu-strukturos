@@ -1,0 +1,3 @@
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/1. Masyvai/cmake-build-debug/CMakeFiles/1__Masyvai.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/1. Masyvai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/1. Masyvai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
