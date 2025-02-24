@@ -1,0 +1,3 @@
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Agnė_Gaižutytė_PI24_K1_N1/cmake-build-debug/CMakeFiles/Agn_Gaiutyt_PI24_K1_N1.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Agnė_Gaižutytė_PI24_K1_N1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Agnė_Gaižutytė_PI24_K1_N1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
