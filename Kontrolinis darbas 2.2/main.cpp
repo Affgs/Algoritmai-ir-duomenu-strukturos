@@ -132,7 +132,7 @@ int main() {
     Stekas stekas;
     int ivestis;
 
-    // Ivedamas sarasas
+    // Vartotojas iveda elementus i sarasa
     cout << "Iveskite saraso elementus (baigti su 0): \n";
     while (cin >> ivestis && ivestis != 0) {
         sarasas.prideti(ivestis);
