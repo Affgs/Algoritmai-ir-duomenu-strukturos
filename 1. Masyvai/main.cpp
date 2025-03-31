@@ -22,8 +22,17 @@ void NeigiamuElementuSuma(int masyvas[], int n) {
 int SandaugaTMaxiIrMiniEl(int masyvas[], int n) {
     int maximalus = 0;
 for (int i=0; i<n; i++) {
-cout << masyvas[i] << " ";
+    if (masyvas[i] > maximalus) {
+        maximalus = masyvas[i];
     }
+    }
+    int minimalus = 0;
+    for (int i=0; i<n; i++) {
+        if (masyvas[i] < minimalus) {
+            minimalus = masyvas[i];
+        }
+    }
+   
 }
 
 
@@ -60,13 +69,6 @@ int main() {
         cout << masyvas[i] << " ";
     }
 
-   /* for (int i=0; i<dydis; i++) {
-        for (int j=i; j<dydis; j++) {
-            swap(masyvas[i], masyvas[j]);   // Naikina elementa nuo galo po viena ir isvedineja seka iki kol lieka pirmas elementas
-            cout << masyvas[i] << " ";
-        }
-    }
-    */
      int op = 0;
 
     while (op != 4) {
