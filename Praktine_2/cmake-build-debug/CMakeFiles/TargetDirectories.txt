@@ -1,0 +1,3 @@
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Praktine_2/cmake-build-debug/CMakeFiles/Praktine_2.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Praktine_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Praktine_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
