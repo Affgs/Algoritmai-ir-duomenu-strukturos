@@ -1,0 +1,3 @@
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Kursinis darbusis/cmake-build-debug/CMakeFiles/Kursinis_darbusis.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Kursinis darbusis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agneg/Documents/Algoritmai ir duomenu strukturos/Kursinis darbusis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
