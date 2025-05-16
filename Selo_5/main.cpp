@@ -23,7 +23,7 @@ int main() {
     const int SIZE = 10000;
     int arr[SIZE];
 
-    // Generuojame atvirkščiai surikiuotus duomenis
+    // Generuojame atvirksciai surikiuotus duomenis
     for (int i = 0; i < SIZE; i++) {
         arr[i] = SIZE - i;
     }
@@ -34,7 +34,7 @@ int main() {
 
     double time = double(end - start) / CLOCKS_PER_SEC;
     cout << fixed << setprecision(6);
-    cout << "Shell Sort su 10000 atvirkščiai surikiuotų duomenų: " << time << " sek.\n";
+    cout << "Shell Sort su 10000 atvirkst. surik. duom.: " << time << " sek.\n";
 
     return 0;
 }
