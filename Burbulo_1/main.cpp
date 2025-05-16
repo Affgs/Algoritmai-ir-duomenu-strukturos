@@ -26,7 +26,7 @@ void generateRandomArray(int arr[], int n) {
 }
 
 int main() {
-    const int SIZE = 5000;
+    const int SIZE = 50000;
     int arr[SIZE];
     srand(time(0));
 
